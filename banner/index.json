@@ -1,1 +1,7 @@
-[]
+[
+    {
+        "title": "Annoucement 2",
+        "body": "Ini deskripsi announcement",
+        "link": "https://facebook.com"
+    }
+]
