@@ -1,4 +1,146 @@
-{
-    "head": "TnC example",
-    "body": "TnC body Example"
-}
+[
+    {
+        "title": "KETENTUAN LAYANAN",
+        "description": [
+            {
+                "text": "Penting: Dengan menggunakan, mendownload atau menginstal elemen produk (“Layanan Instapay”), pengguna menyatakan bahwa pengguna telah membaca, memahami, dan setuju untuk terikat dengan ketentuan penggunaan Layanan Instapay ini (“Ketentuan”). Ketentuan ini mengatur penggunaan Layanan Instapay dan berlaku sebagai ketentuan hukum yang mengikat antara PT. MCP Indo Utama (“Instapay”) sebagai pemilik aplikasi dengan pengguna (“Merchant”). Merchant menyatakan tunduk sepenuhnya pada syarat dan ketentuan yang berlaku tanpa bantahan apapun.", 
+                "type": "regular"
+            },
+            {
+                "text":"HARAP MEMBACA DAN MEMPELAJARI DENGAN SEKSAMA KETENTUAN LAYANAN INI. MERCHANT HARUS MEMAHAMI, MENERIMA, DAN MENYETUJUI SEMUA PERSYARATAN DAN KETENTUAN DALAM KETENTUAN LAYANAN INI SEBELUM MENGGUNAKAN APLIKASI INSTAPAY.",
+                "type": "regular"
+            }   
+        ]
+    },
+    {
+        "title": "PENDAHULUAN",
+        "point": [
+            {
+                "text": "Dalam Ketentuan ini yang dimaksud dengan Merchant adalah orang perseorangan, baik warga negara Indonesia, warga negara asing, maupun suatu badan hukum yang telah mendaftarkan diri pada aplikasi InstaPay dan membayar untuk layanan tertentu yang mungkin disediakan oleh aplikasi InstaPay.",
+                "type": "regular",
+                "list": "number"
+            },
+            {
+                "text": "Dalam Ketentuan ini yang dimaksud dengan Layanan Instapay adalah semua layanan, software, dan aplikasi yang disediakan oleh Instapay untuk memberikan fasilitas pembuatan tagihan dan melakukan transaksi pembayaran.",
+                "type": "regular",
+                "list": "number"
+            },   
+            {
+                "text": "Dengan mengakses dan menggunakan layanan aplikasi Insapay, Merchant secara sadar dan tanpa paksaan dari pihak manapun menyatakan diri setuju untuk terikat dan menerima semua syarat dan ketentuan yang tercantum dalam Ketentuan ini.",
+                "type": "regular",
+                "list": "number"
+            }   
+        ]
+    },
+    {
+        "title": "PENDAFTARAN DAN VERIFIKASI MERCHANT",
+        "point": [
+            {
+                "text":"Saat melakukan pendaftaran, Merchant diwajibkan untuk melengkapi informasi data diri dan/atau badan usaha yang sesuai dengan ketentuan dalam aplikasi Instapay, serta menandatangani Surat Pernyataan.",
+                "type": "regular",
+                "list": "number"
+            },
+            {
+                "text":"Pihak Instapay akan melakukan verifikasi terhadap informasi yang diberikan oleh Merchant. Dalam proses verifikasi, Merchant memberikan kekuasaan sepenuhnya kepada Instapay untuk melakukan pemeriksaan latar belakang terhadap informasi mengenai Merchant.",
+                "type": "regular",
+                "list": "number"
+            },
+            {
+                "text":"Merchant tidak akan melakukan gugatan apapun terhadap hasil akhir dari verifikasi yang dilakukan oleh Instapay.",
+                "type": "regular",
+                "list": "number"
+            },
+            {
+                "text":"Dalam hal Merchant berhasil melalui proses verifikasi yang dilakukan oleh Instapay, Merchant akan menerima akun dan sandi untuk melakukan transaksi di aplikasi Instapay. Merchant bertanggung jawab sepenuhnya untuk menjaga kerahasiaan dan keamanan atas akun dan sandi tersebut.",
+                "type": "regular",
+                "list": "number"
+            }    
+        ]
+    },
+    {
+        "title": "PENGGUNAAN LAYANAN INSTAPAY",
+        "point": [
+            {
+                "text": "Dengan mengunduh aplikasi Instapay, Merchant dapat mengakses dan menggunakan Layanan Instapay sesuai dengan Ketentuan.",
+                "type": "regular",
+                "list": "number"
+            },
+            {
+                "text": "Layanan Instapay memberikan akses dan kemudahan bagi Merchant untuk melakukan penagihan dan menerima pembayaran melalui channel yang telah tersedia dalam aplikasi, dimana Merchant dapat menggunakan fasilitas ini selama 24 jam sehari.",
+                "type": "regular",
+                "list": "number"
+            },
+            {
+                "text": "Dalam menggunakan fasilitas yang diberikan oleh Instapay, Merchant wajib untuk memberikan deskripsi barang atau produk dengan benar dan sesuai dengan keadaan barang atau produk yang dijual.",
+                "type": "regular",
+                "list": "number"
+            },
+            {
+                "text": "Segala kerugian yang diakibatkan oleh kesalahan Merchant dalam kegiatan penjualan barang atau produk, baik materiil maupun imateriil, merupakan resiko yang ditanggung sepenuhnya oleh Merchant.",
+                "type": "regular",
+                "list": "number"
+            },
+            {
+                "text": "Hak penggunaan terhadap layanan aplikasi Instapay adalah tidak eksklusif, tidak dapat dipindahtangankan, dan tidak dapat di-sublisensikan. Merchant tidak diperkenankan untuk:",
+                "type": "regular",
+                "list": "romawi",
+                "subPoint": [
+                    {
+                        "text": "Menyewakan, mereproduksi, memodifikasi, membuat karya turunan dari, mendistribusikan atau mentransfer Layanan Instapay;",
+                        "type": "regular",
+                        "list": "romawi"
+                    },
+                    {
+                        "text": "Menggunakan Layanan Instapay untuk kepentingan pihak ketiga atau memasukkan Layanan Instapay ke dalam produk atau layanan lain;",
+                        "type": "regular",
+                        "list": "romawi"
+                    },
+                    {
+                        "text": "Mekanisme yang menghalangi dalam Layanan Instapay yang dimaksudkan untuk membatasi penggunaan Anda;",
+                        "type": "regular",
+                        "list": "romawi"
+                    },
+                    {
+                        "text": "Merekayasa balik, membongkar, mendekompilasi, atau menerjemahkan Layanan Instapay atau mencoba mendapatkan kode sumber Perangkat Lunak atau API non-publik;",
+                        "type": "regular",
+                        "list": "romawi"
+                    },
+                    {
+                        "text": "Menyebarkan informasi tentang sistematika IT dibalik Instapay secara terbuka;",
+                        "type": "regular",
+                        "list": "romawi"
+                    },
+                    {
+                        "text": "Mengakses Layanan Instapay untuk membangun produk atau layanan yang kompetitif;",
+                        "type": "regular",
+                        "list": "romawi"
+                    },
+                    {
+                        "text": "Mengirimkan virus, worm atau kode berbahaya lainnya ke Layanan Instapay atau mengganggu atau membahayakan Layanan Instapay;",
+                        "type": "regular",
+                        "list": "romawi"
+                    },
+                    {
+                        "text": "Berusaha mengakses informasi atau data pelanggan Instapay lainnya;",
+                        "type": "regular",
+                        "list": "romawi"
+                    },
+                    {
+                        "text": "Menggunakan Layanan Instapay untuk mengirimkan spam atau email yang tidak diminta lainnya; atau",
+                        "type": "regular",
+                        "list": "romawi"
+                    },
+                    {
+                        "text": "Menggunakan Layanan Instapay kecuali yang diizinkan secara tersurat di sini.",
+                        "type": "regular",
+                        "list": "romawi"
+                    },
+                    {
+                        "text": "Segala bentuk percobaan maupun kegiatan yang disebutkan diatas akan diproses secara hukum oleh pihak Instapay.",
+                        "type": "italic"
+                    }
+                ]
+            }
+        ]
+    }
+]
