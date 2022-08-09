@@ -4,7 +4,7 @@
             "title": "KETENTUAN LAYANAN",
             "description": [
                 {
-                    "text": "<u>Penting</u>: Dengan menggunakan, mendownload atau menginstal elemen produk (“Layanan Instapay”), pengguna menyatakan bahwa pengguna telah membaca, memahami, dan setuju untuk terikat dengan ketentuan penggunaan Layanan Instapay ini (“Ketentuan”). Ketentuan ini mengatur penggunaan Layanan Instapay dan berlaku sebagai ketentuan hukum yang mengikat antara PT. MCP Indo Utama (“Instapay”) sebagai pemilik aplikasi dengan pengguna (“Merchant”). Merchant menyatakan tunduk sepenuhnya pada syarat dan ketentuan yang berlaku tanpa bantahan apapun.", 
+                    "text": "Penting: Dengan menggunakan, mendownload atau menginstal elemen produk (“Layanan Instapay”), pengguna menyatakan bahwa pengguna telah membaca, memahami, dan setuju untuk terikat dengan ketentuan penggunaan Layanan Instapay ini (“Ketentuan”). Ketentuan ini mengatur penggunaan Layanan Instapay dan berlaku sebagai ketentuan hukum yang mengikat antara PT. MCP Indo Utama (“Instapay”) sebagai pemilik aplikasi dengan pengguna (“Merchant”). Merchant menyatakan tunduk sepenuhnya pada syarat dan ketentuan yang berlaku tanpa bantahan apapun.", 
                     "type": "regular"
                 },
                 {
@@ -67,7 +67,7 @@
                     "list": "number"
                 },
                 {
-                    "text": "Layanan Instapay memberikan akses dan kemudahan bagi Merchant untuk melakukan penagihan dan menerima pembayaran melalui <i>channel</i> yang telah tersedia dalam aplikasi, dimana Merchant dapat menggunakan fasilitas ini selama 24 jam sehari.",
+                    "text": "Layanan Instapay memberikan akses dan kemudahan bagi Merchant untuk melakukan penagihan dan menerima pembayaran melalui channel yang telah tersedia dalam aplikasi, dimana Merchant dapat menggunakan fasilitas ini selama 24 jam sehari.",
                     "type": "regular",
                     "list": "number"
                 },
@@ -127,7 +127,7 @@
                             "list": "romawi"
                         },
                         {
-                            "text": "Menggunakan Layanan Instapay untuk mengirimkan <i>spam</i> atau email yang tidak diminta lainnya; atau",
+                            "text": "Menggunakan Layanan Instapay untuk mengirimkan spam atau email yang tidak diminta lainnya; atau",
                             "type": "regular",
                             "list": "romawi"
                         },
@@ -137,7 +137,7 @@
                             "list": "romawi"
                         },
                         {
-                            "text": "<i>Segala bentuk percobaan maupun kegiatan yang disebutkan diatas akan diproses secara hukum oleh pihak Instapay.</i>",
+                            "text": "Segala bentuk percobaan maupun kegiatan yang disebutkan diatas akan diproses secara hukum oleh pihak Instapay.",
                             "type": "italic"
                         }
                     ]
@@ -158,7 +158,7 @@
                             "list": "romawi"
                         },
                         {
-                            "text": "Menyebarkan <i>spam</i>, hal-hal yang melanggar kesusilaan, atau pesan elektronik yang berjumlah besar, dan pesan bersambung;",
+                            "text": "Menyebarkan spam, hal-hal yang melanggar kesusilaan, atau pesan elektronik yang berjumlah besar, dan pesan bersambung;",
                             "type": "regular",
                             "list": "romawi"
                         },
@@ -255,17 +255,17 @@
             "title": "REFUND DAN CHARGEBACK",
             "point": [
                 {
-                    "text": "Dalam hal terdapat perselisihan antara Merchant dengan pembeli karena tidak sesuainya barang dan/atau jasa yang diterima pembeli, atau barang dan/atau jasa tidak pernah diterima pembeli, atau pembeli merasa tidak puas dengan barang dan/jasa yang diterima, dimana pembayaran oleh pembeli telah dilakukan, maka Merchant wajib melakukan pengembalian dana (<i>refund</i>) terhadap biaya yang sudah dibayarkan pembeli setelah dikurangi biaya MDR, biaya rekening penampung dan biaya transfer dan Merchant dapat menarik kembali barang dan/atau jasa yang dibeli.",
+                    "text": "Dalam hal terdapat perselisihan antara Merchant dengan pembeli karena tidak sesuainya barang dan/atau jasa yang diterima pembeli, atau barang dan/atau jasa tidak pernah diterima pembeli, atau pembeli merasa tidak puas dengan barang dan/jasa yang diterima, dimana pembayaran oleh pembeli telah dilakukan, maka Merchant wajib melakukan pengembalian dana (refund) terhadap biaya yang sudah dibayarkan pembeli setelah dikurangi biaya MDR, biaya rekening penampung dan biaya transfer dan Merchant dapat menarik kembali barang dan/atau jasa yang dibeli.",
                     "type": "regular",
                     "list": "number"
                 },
                 {
-                    "text": "Apabila terjadi permintaan pengembalian dana (<i>chargeback</i>) oleh pembeli yang dikarenakan oleh penipuan, tindak pidana lainnya atau pembeli tidak mengaki adanya transaksi tersebut, maka Merchant memiliki tanggung jawab penuh atas transaksi yang dikenakan <i>chargeback</i> tersebut dan bersedia untuk membayar kerugian tersebut serta melepaskan Instapay dari tanggung jawab apapun dari permintaan <i>chargeback</i> tersebut dalam jangka waktu maksimal 14 (empat belas) hari kalender.",
+                    "text": "Apabila terjadi permintaan pengembalian dana (chargeback) oleh pembeli yang dikarenakan oleh penipuan, tindak pidana lainnya atau pembeli tidak mengaki adanya transaksi tersebut, maka Merchant memiliki tanggung jawab penuh atas transaksi yang dikenakan chargeback tersebut dan bersedia untuk membayar kerugian tersebut serta melepaskan Instapay dari tanggung jawab apapun dari permintaan chargeback tersebut dalam jangka waktu maksimal 14 (empat belas) hari kalender.",
                     "type": "regular",
                     "list": "number"
                 },
                 {
-                    "text": "Dalam hal Merchant lalai terhadap kewajibannya untuk membayarkan kembali <i>chargeback</i> tersebut, maka Instapay dapat menempuh langkah-langkah hukum yang dibutuhkan",
+                    "text": "Dalam hal Merchant lalai terhadap kewajibannya untuk membayarkan kembali chargeback tersebut, maka Instapay dapat menempuh langkah-langkah hukum yang dibutuhkan",
                     "type": "regular",
                     "list": "number"
                 }
@@ -554,7 +554,7 @@
                     "list": "number"
                 },
                 {
-                    "text": "Instapay dapat melakukan pembaruan fitur maupun software aplikasi sewaktu-waktu tanpa memberitahukan Merchant. Merchant melepaskan haknya untuk mengajukan gugatan apabila pembaruan fitur maupun software aplikasi tersebut menyebabkan aplikasi Instapay tidak dapat digunakan di <i>device</i> Merchant",
+                    "text": "Instapay dapat melakukan pembaruan fitur maupun software aplikasi sewaktu-waktu tanpa memberitahukan Merchant. Merchant melepaskan haknya untuk mengajukan gugatan apabila pembaruan fitur maupun software aplikasi tersebut menyebabkan aplikasi Instapay tidak dapat digunakan di device Merchant",
                     "type": "regular",
                     "list": "number"
                 }
@@ -628,7 +628,7 @@
                             "list": "number"
                         },
                         {
-                            "text": "Tanpa membatasi hal yang telah disebutkan sebelumnya, dan tunduk pada Pasal 4 dibawah ini, Instapay diperbolehkan untuk mengungkapkan Informasi Rahasia kepada anggota-anggotanya, direktur-direkturnya, karyawan-karyawannya, afiliasinya, subkontraktor, agennya atau pihak yang ditunjuk (secara bersama-sama disebut sebagai “b>Perwakilan</b>”) yang dibutuhkan untuk mengetahui Informasi Rahasia dengan tujuan yang sama dengan Informasi Rahasia yang diterima oleh Instapay. Instapay setuju untuk mengambil segala tindakan pencegahan yang diperlukan untuk menjaga kerahasiaan dari Informasi Rahasia dan untuk menyediakan segala perlindungan yang diperlukan terhadap segala pengungkapan yang tidak sah, tiruan atau penggunaan, dan memastikan Perwakilan-nya yang menerima Informasi Rahasia tersebut untuk tunduk pada kewajiban menjaga kerahasiaan dari Informasi Rahasia sesuai dengan Perjanjian ini.",
+                            "text": "Tanpa membatasi hal yang telah disebutkan sebelumnya, dan tunduk pada Pasal 4 dibawah ini, Instapay diperbolehkan untuk mengungkapkan Informasi Rahasia kepada anggota-anggotanya, direktur-direkturnya, karyawan-karyawannya, afiliasinya, subkontraktor, agennya atau pihak yang ditunjuk (secara bersama-sama disebut sebagai “Perwakilan”) yang dibutuhkan untuk mengetahui Informasi Rahasia dengan tujuan yang sama dengan Informasi Rahasia yang diterima oleh Instapay. Instapay setuju untuk mengambil segala tindakan pencegahan yang diperlukan untuk menjaga kerahasiaan dari Informasi Rahasia dan untuk menyediakan segala perlindungan yang diperlukan terhadap segala pengungkapan yang tidak sah, tiruan atau penggunaan, dan memastikan Perwakilan-nya yang menerima Informasi Rahasia tersebut untuk tunduk pada kewajiban menjaga kerahasiaan dari Informasi Rahasia sesuai dengan Perjanjian ini.",
                             "type": "regular",
                             "list": "number"
                         },
@@ -705,7 +705,7 @@
                             "list": "number"
                         },
                         {
-                            "text": "Apabila timbul perselisihan atau perbedaan (“b>Perselisihan</b>”) antara Instapay dan Merchant sehubungan dengan Perjanjian ini, Instapay dan Merchant akan mencoba, dalam periode 30 (tiga puluh) hari kalender setelah penerimaan pemberitahuan dari salah satu Pihak mengenai timbulnya Perselisihan kepada Pihak lainnya, untuk menyelesaikan Perselisihan tersebut pertama-tama dengan musyawarah untuk mencapai kata mufakat antara Instapay dan Merchant.",
+                            "text": "Apabila timbul perselisihan atau perbedaan (“Perselisihan”) antara Instapay dan Merchant sehubungan dengan Perjanjian ini, Instapay dan Merchant akan mencoba, dalam periode 30 (tiga puluh) hari kalender setelah penerimaan pemberitahuan dari salah satu Pihak mengenai timbulnya Perselisihan kepada Pihak lainnya, untuk menyelesaikan Perselisihan tersebut pertama-tama dengan musyawarah untuk mencapai kata mufakat antara Instapay dan Merchant.",
                             "type": "regular",
                             "list": "number"
                         },
