@@ -84,7 +84,7 @@
                 {
                     "text": "Hak penggunaan terhadap layanan aplikasi Instapay adalah tidak eksklusif, tidak dapat dipindahtangankan, dan tidak dapat di-sublisensikan. Merchant tidak diperkenankan untuk:",
                     "type": "regular",
-                    "list": "romawi",
+                    "list": "number",
                     "subPoint": [
                         {
                             "text": "Menyewakan, mereproduksi, memodifikasi, membuat karya turunan dari, mendistribusikan atau mentransfer Layanan Instapay;",
