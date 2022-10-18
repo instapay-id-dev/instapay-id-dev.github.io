@@ -1,0 +1,38 @@
+[
+  [
+		{
+			"question": "Apa itu QRIS Statis?",
+			"answer": "QRIS Statis adalah jenis pembayaran menggunakan QR Code yang bersifat tetap, tidak dapat diubah, dan hanya dapat dimiliki oleh 1 orang saja. Biasanya QRIS Statis dapat dicetak, dipajang, atau dibagikan oleh penjual kepada pelanggan. Pelanggan nantinya tinggal melakuk​an scan, masukkan nominal, masukkan PIN, dan langsung bayar."
+		},
+		{
+			"question": "Bagaimana cara mengajukan QRIS Statis?",
+			"answer": "Anda diharuskan mengisi formulir pengajuan yang dapat diakses melalui halaman ini. Klik tombol \"Ajukan QRIS Statis\", kemudian isi formulir sesuai data yang diperlukan. Setelah itu akan diproses pengajuan Anda maksimal 14 hari. Mohon cek e-mail yang terdaftar Anda secara berkala untuk mendapatkan file QRIS Statis yang telah diajukan."
+		},
+		{
+			"question": "Berapa lama proses mengajukan QRIS Statis?",
+			"answer": "Proses dilakukan maksimal 14 hari."
+		},
+		{
+			"question": "Apa perbedaan QRIS Statis dengan QRIS Dinamis?",
+			"answer": "QRIS Statis bersifat tetap, tidak dapat diubah, dan pelanggan harus memasukkan nominal pembayaran yang disepakati oleh penjual. Sedangkan QRIS Dinamis bersifat fleksibel, karena penjual memasukkan nominal pembayarannya terlebih dahulu sebelum QR Code dibuat dan dibagikan ke pelanggan."
+		}
+	],
+	[
+		{
+			"question": "what is QRIS Static?",
+			"answer": "QRIS Static is payment method use QR Code that is fixed, unchangeable, and can only be owned by one person. QRIS Static usually can be printed, displayed or distributed by the seller to the customer. then customer scan QR, input nominal, and pay the fee"
+		},
+		{
+			"question": "How to apply for QRIS Static?",
+			"answer": "You are required to fill out an application form which can be accessed through this page. Click the \"Apply QRIS Static\" button, then fill the form according to the required data. After that, your application will be processed for a maximum of 14 days. Please check your registered e-mail periodically to get the QRIS Static file that has been applied"
+		},
+		{
+			"question": "How long does it take to apply for a QRIS Static?",
+			"answer": "The process is carried out a maximum of 14 days." 
+		},
+		{
+			"question": "What is the difference between QRIS Static and QRIS Dynamic?",
+			"answer": "QRIS Static is fixed, unchangeable, and the customer must input the payment amount agreed by the seller. while the Dynamic QRIS is flexible, because the seller inputs the payment amount first before the QR Code is created and distributed to customers."
+		}
+	]
+]
