@@ -19,8 +19,8 @@
 	],
 	[
 		{
-			"question": "what is QRIS Static?",
-			"answer": "QRIS Static is payment method use QR Code that is fixed, unchangeable, and can only be owned by one person. QRIS Static usually can be printed, displayed or distributed by the seller to the customer. then customer scan QR, input nominal, and pay the fee"
+			"question": "What is QRIS Static?",
+			"answer": "QRIS Static is payment method use QR Code that is fixed, unchangeable, and can only be owned by one person. QRIS Static usually can be printed, displayed or shared by the seller to the customer. then customer scan QR, input nominal, and pay the fee"
 		},
 		{
 			"question": "How to apply for QRIS Static?",
@@ -32,7 +32,7 @@
 		},
 		{
 			"question": "What is the difference between QRIS Static and QRIS Dynamic?",
-			"answer": "QRIS Static is fixed, unchangeable, and the customer must input the payment amount agreed by the seller. while the Dynamic QRIS is flexible, because the seller inputs the payment amount first before the QR Code is created and distributed to customers."
+			"answer": "QRIS Static is fixed, unchangeable, and the customer must input the payment amount agreed by the seller. while the Dynamic QRIS is flexible, because the seller inputs the payment amount first before the QR Code is created and shared to customers."
 		}
 	]
 ]
