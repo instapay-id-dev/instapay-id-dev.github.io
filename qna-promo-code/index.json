@@ -1,0 +1,54 @@
+[
+	[
+		{
+			"question": "Apa itu kode promo?",
+			"answer": "Kode promo adalah kode penawaran khusus untuk dibagikan kepada pelanggan Anda sesuai dengan pengajuan yang Anda berikan. Mulai dari nama kode promo, bentuk penawaran, hingga durasi berlakunya kode promo. Saat ini, kode promo hanya tersedia potongan pembayaran pada saat pelanggan Anda membayar."
+		},
+		{
+			"question": "Bagaimana cara mengajukan kode promo?",
+			"answer": "Anda diharuskan mengisi formulir pengajuan yang dapat diakses melalui halaman ini. Klik tombol “Ajukan kode promo”, kemudian isi formulir sesuai yang Anda inginkan. Setelah itu Tim Instapay akan memproses pengajuan Anda maksimal 3 hari kerja. Mohon cek e-mail yang terdaftar Anda untuk mendapatkan kode promo yang telah diajukan."
+		},
+		{
+			"question": "Berapa lama proses mengajukan kode promo?",
+			"answer": "Proses dilakukan maksimal 3 hari kerja"
+		},
+		{
+			"question": "Bagaimana cara mengakhiri kode promo?",
+			"answer": "Silahkan klik tombol “Hubungi kami” pada bagian paling bawah halaman ini. Kemudian, Anda akan diarahkan ke CS Instapay melalui Whatsapp. Selanjutnya, CS Instapay akan membantu Anda mengakhiri kode promo yang Anda inginkan."
+		},
+		{
+			"question": "Bagaimana cara pelanggan memakai kode promo?",
+			"answer": "Kotak isian kode promo terdapat di halaman tagihan sebelum pelanggan Anda ingin melakukan pembayaran."
+		},
+		{
+			"question": "Berapa batasan kode promo yang dapat saya  ajukan dan miliki?",
+			"answer": "Tidak ada batasan berapa banyak Anda dapat mengajukan dan memiliki kode promo. Yuk, bikin sebanyak-banyaknya agar penjualan makin meningkat!"
+		}
+	],
+	[
+		{
+			"question": "What is promo code?",
+			"answer": "A promo code is a special offer code to be shared to your customers according to the application you provide. Starting from the name of the promo code, the form of the offer, to the duration of the promo code. Currently, promo codes are only available for discount when your customer pays."
+		},
+		{
+			"question": "How to apply promo code",
+			"answer": "You must fill an application form which can be accessed via this page. Click the “Apply promo code” button, then fill the form as you wish. After that the Instapay Team will process your application for a maximum of 3 working days. Please check your registered e-mail to get the promo code that has been applied"
+		},
+		{
+			"question": "How long does it take to apply a promo code?",
+			"answer": "The process is carried out for maximum of 3 working days"
+		},
+		{
+			"question": "How to terminate a promo code?",
+			"answer": "Please click the “Contact us” button at the bottom of this page. Then, you will be directed to CS Instapay via Whatsapp. Next, CS Instapay will help you to terminate the promo code that you want."
+		},
+		{
+			"question": "How does customer uses promo code?",
+			"answer": "The promo code field is located on the billing page before your customer wants to make a payment."
+		},
+		{
+			"question": "How many promo codes can I apply for and own?",
+			"answer": "There is no limit on amunt you can apply for and have a promo code. lets make as many as possible to increase sales!"
+		}
+	]
+]
