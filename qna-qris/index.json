@@ -20,19 +20,19 @@
 	[
 		{
 			"question": "What is QRIS Static?",
-			"answer": "QRIS Static is payment method use QR Code that is fixed, unchangeable, and can only be owned by one person. QRIS Static usually can be printed, displayed or shared by the seller to the customer. then customer scan QR, input nominal, and pay the fee"
+			"answer": "QRIS Static is a  payment method using QR Code that is fixed, unchangeable, and can only be owned by one person. QRIS Static usually can be printed, displayed, or shared by the seller to the customer. Then, the customer scans QR, input the nominal, and pay the fee"
 		},
 		{
 			"question": "How to apply for QRIS Static?",
-			"answer": "You are required to fill out an application form which can be accessed through this page. Click the \"Apply QRIS Static\" button, then fill the form according to the required data. After that, your application will be processed for a maximum of 14 days. Please check your registered e-mail periodically to get the QRIS Static file that has been applied"
+			"answer": "You are required to fill out an application form which can be accessed through this page. Click the \"Apply QRIS Static\" button, then fill out the form according to the required data. After that, your application will be processed for a maximum of 14 days. Please check your registered e-mail periodically to get the QRIS Static file that has been applied"
 		},
 		{
 			"question": "How long does it take to apply for a QRIS Static?",
-			"answer": "The process is carried out a maximum of 14 days." 
+			"answer": "The process is carried out for a maximum of 14 days." 
 		},
 		{
 			"question": "What is the difference between QRIS Static and QRIS Dynamic?",
-			"answer": "QRIS Static is fixed, unchangeable, and the customer must input the payment amount agreed by the seller. while the Dynamic QRIS is flexible, because the seller inputs the payment amount first before the QR Code is created and shared to customers."
+			"answer": "QRIS Static is fixed and unchangeable, and the customer must input the payment amount agreed upon by the seller. while the Dynamic QRIS is flexible because the seller inputs the payment amount first before the QR Code is created and shared to the customers."
 		}
 	]
 ]
