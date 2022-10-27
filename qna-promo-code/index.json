@@ -27,12 +27,12 @@
 	],
 	[
 		{
-			"question": "What is a promo code?",
-			"answer": "A promo code is a special offer code to be shared to your customers according to the application you provide. Starting from the name of the promo code, the form of the offer, to the duration of the promo code. Currently, promo codes are only available for discounts when your customer pays."
+			"question": "What is the promo code?",
+			"answer": "A promo code is a special offer code that can be shared to your customers based on your request on the application form. Starting from the name of the promo code, the form of the offer, to the duration of the promo code. Currently, promo codes are only available for discounts when the customer pays."
 		},
 		{
 			"question": "How to apply promo code?",
-			"answer": "You must fill out an application form which can be accessed via this page. Click the \"Apply promo code\" button, then fill out the form as you wish. After that, the Instapay Team will process your application for a maximum of 3 working days. Please check your registered e-mail to get the promo code that has been applied."
+			"answer": "You must fill out an application form which can be accessed via this page. Click the \"Apply promo code\" button, then fill out the form as you wish. After that, the Instapay Team will process your application for a maximum of 3 working days. Please check your registered e-mail to get the promo code that has been applied"
 		},
 		{
 			"question": "How long does it take to apply a promo code?",
@@ -40,7 +40,7 @@
 		},
 		{
 			"question": "How to terminate a promo code?",
-			"answer": "Please click the \"Contact us\" button at the bottom of this page. Then, you will be directed to CS Instapay via Whatsapp. Next, CS Instapay will help you to terminate the promo code that you want."
+			"answer": "Please click the \"Contact us\" button at the bottom of this page. Then, you will be directed to Instapay's CS via Whatsapp. Next, Instapay's CS will help you to terminate the promo code that you want."
 		},
 		{
 			"question": "How does the customer use the promo code?",
@@ -48,7 +48,7 @@
 		},
 		{
 			"question": "How many promo codes can I apply for and own?",
-			"answer": "TThere is no limit on the amount you can apply for and have a promo code. let's make as many as possible to increase"
+			"answer": "There is no limit on the amount you can apply for and have a promo code. Let's make as many as possible to boost your sale!"
 		}
 	]
 ]
