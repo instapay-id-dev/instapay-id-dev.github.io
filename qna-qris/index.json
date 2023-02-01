@@ -6,11 +6,11 @@
 		},
 		{
 			"question": "Bagaimana cara mengajukan QRIS Statis?",
-			"answer": "Anda diharuskan mengisi formulir pengajuan yang dapat diakses melalui halaman ini. Klik tombol \"Ajukan QRIS Statis\", kemudian isi formulir sesuai data yang diperlukan. Setelah itu akan diproses pengajuan Anda maksimal 14 hari. Mohon cek e-mail yang terdaftar Anda secara berkala untuk mendapatkan file QRIS Statis yang telah diajukan."
+			"answer": "Anda diharuskan mengisi formulir pengajuan yang dapat diakses melalui halaman ini. Klik tombol \"Ajukan QRIS Statis\", kemudian isi formulir sesuai data yang diperlukan. Setelah itu akan diproses pengajuan Anda maksimal 14 hari kerja. Mohon cek e-mail yang terdaftar Anda secara berkala untuk mendapatkan file QRIS Statis yang telah diajukan."
 		},
 		{
 			"question": "Berapa lama proses mengajukan QRIS Statis?",
-			"answer": "Proses dilakukan maksimal 14 hari."
+			"answer": "Proses dilakukan maksimal 14 hari kerja."
 		},
 		{
 			"question": "Apa perbedaan QRIS Statis dengan QRIS Dinamis?",
@@ -24,11 +24,11 @@
 		},
 		{
 			"question": "How to apply for QRIS Static?",
-			"answer": "You are required to fill out an application form which can be accessed through this page. Click the \"Apply QRIS Static\" button, then fill out the form according to the required data. After that, your application will be processed for a maximum of 14 days. Please check your registered e-mail periodically to get the QRIS Static file that has been applied"
+			"answer": "You are required to fill out an application form which can be accessed through this page. Click the \"Apply QRIS Static\" button, then fill out the form according to the required data. After that, your application will be processed for a maximum of 14 working days. Please check your registered e-mail periodically to get the QRIS Static file that has been applied"
 		},
 		{
 			"question": "How long does it take to apply for a QRIS Static?",
-			"answer": "The process is carried out for a maximum of 14 days." 
+			"answer": "The process is carried out for a maximum of 14 working days." 
 		},
 		{
 			"question": "What is the difference between QRIS Static and QRIS Dynamic?",
